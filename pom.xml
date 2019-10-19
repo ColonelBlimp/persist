@@ -367,16 +367,10 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git@github.com:ColonelBlimp/org.veary.persist.git</connection>
-    <developerConnection>scm:git:git@github.com:ColonelBlimp/org.veary.persist.git</developerConnection>
-    <url>scm:git:git@github.com:ColonelBlimp/org.veary.persist.git</url>
+    <connection>scm:git:git@github.com:ColonelBlimp/persist.git</connection>
+    <developerConnection>scm:git:git@github.com:ColonelBlimp/persist.git</developerConnection>
+    <url>scm:git:git@github.com:ColonelBlimp/persist.git</url>
     <tag>HEAD</tag>
   </scm>
-  <!-- distributionManagement>
-    <repository>
-      <id>github</id>
-      <name>GitHub ColonelBlimp Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/ColonelBlimp</url>
-    </repository>
-  </distributionManagement -->
+
 </project>
